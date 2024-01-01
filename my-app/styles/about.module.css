@@ -1,0 +1,17 @@
+.container{
+    margin: 45px auto;
+    max-width: 50vw;   
+}
+
+.center{
+text-align: center;  
+margin-bottom:42px ;  
+}
+
+.heading2{
+    margin: 34px 0;
+}
+
+.insidepara{
+    margin: 12px 0;
+}
